@@ -1,0 +1,4 @@
+Method,Sensitivity (%),Specificity (%),Accuracy (%),F1 Score (%),MCC (%),auROC (%)
+Fine-tuing,88.29 ,96.77 ,92.53 ,92.20 ,85.37 ,97.05 
+Prompt1,90.44 ,94.62 ,92.53 ,92.37 ,85.14 ,95.85 
+Prompt20,92.47 ,95.82 ,94.15 ,94.05 ,88.34 ,97.20 

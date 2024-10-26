@@ -1,0 +1,4 @@
+Method,Sensitivity (%),Specificity (%),Accuracy (%),F1 Score (%),MCC (%),auROC (%)
+Baseline,82.79569892,87.45519713,85.12544803,84.7706422,70.32728105,90.58008562
+Baseline+Prompt,92.23,90.32,91.28,91.36,82.57,94.9
+Baseline+Prompt+Contrastive,92.47,95.82,94.15,94.05,88.34,97.2
